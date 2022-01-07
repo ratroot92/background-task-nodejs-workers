@@ -2,3 +2,5 @@
     "type": "git",
     "url": "git://github.com/evantahler/background_jobs_node.git"
   }
+
+  https://www.youtube.com/watch?v=XL-nCvj2DO0&t=943s&ab_channel=PubNub
