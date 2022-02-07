@@ -14,6 +14,6 @@ const throttle = (fn, delay) => {
 
 
 // Example use 
-document.getElementById('button').addEventListener('click', throttle((e) => {
-    console.log("you clicked me ")
-}, 5000))
+// document.getElementById('button').addEventListener('click', throttle((e) => {
+//     console.log("you clicked me ")
+// }, 5000))
